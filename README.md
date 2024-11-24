@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mridul (@mridul249).
 - 👀 I have a strong interest in Artificial Intelligence, Machine Learning, and Web Development.
-- 🌱 Currently, I’m diving deep into Deep Learning.
+- 🌱 Currently, I’m diving deep into Deep Learning & Web Development.
 - 💞️ I’m open to collaboration on innovative Deep Learning projects.
 
 <!---
