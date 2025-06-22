@@ -10,9 +10,12 @@
 <details>
   <summary>📜 My Custom Terminal Man Page</summary>
   <br>
-  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot 2025-06-23 015354.png" width="100%">
-  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot 2025-06-23 015407.png" width="100%">
+  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015354.png" width="90%">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015407.png" width="90%">
 </details>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mridul249&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mridul249&theme=dark&hide_border=false)<br/>
