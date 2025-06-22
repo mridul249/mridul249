@@ -10,9 +10,9 @@
 <details>
   <summary>📜 My Custom Terminal Man Page</summary>
   <br>
-  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015354.png" width="90%">
+  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015354.png" width="50%">
   <br><br>
-  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015407.png" width="90%">
+  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015407.png" width="50%">
 </details>
 
 
