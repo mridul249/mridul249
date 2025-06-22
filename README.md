@@ -15,8 +15,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mridul249&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<details>
+  <summary>📜 My Custom Terminal Man Page</summary>
+  <br>
+  <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/carbon.png" width="100%">
+</details>
 
-### 🧾 My Custom Terminal Man Page
-![Terminal Man Page](https://raw.githubusercontent.com/mridul249/mridul249/main/carbon.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
