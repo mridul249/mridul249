@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🎯 **Software Developer** focused on building performant, low-level tech and intelligent systems.  
-🧠 Actively exploring advanced topics in **Software Development**, **Distributed Systems**, and **Deep Learning**.  
+🧠 Actively learning and experimenting with Software Development, Distributed Systems, Deep Learning, and Cybersecurity (Malware Development and Analysis).
 🎓 Pursuing **B.Tech in AI & Data Science** at **IIT Patna**  
 🤝 Open to collaboration on impactful projects in **Android**, **Web**, and **AI/ML** domains  
 📫 Reach me at [mridul60214@gmail.com](mailto:mridul60214@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mridul-kumar-703038250/)
