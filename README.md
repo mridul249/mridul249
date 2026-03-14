@@ -70,6 +70,8 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=mridul249)
+
 ### 🧩 Expertise Areas
 
 - Android Development  
