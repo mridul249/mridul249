@@ -36,6 +36,7 @@
 
 **DevOps, Tools & Platforms**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -80,19 +81,6 @@
 - Machine Learning  
 - Data Science  
 - Malware Development & Analysis
-
----
-
-### 📂 My Man Page
-
-<details>
-<summary>📜 Click to expand my custom <code>man mridul</code></summary>
-<br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015354.png" width="30%">
-    <img src="https://raw.githubusercontent.com/mridul249/mridul249/main/Screenshot%202025-06-23%20015407.png" width="30%">
-</p>
-</details>
 
 ---
 
