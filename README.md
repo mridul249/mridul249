@@ -77,9 +77,8 @@
 
 - Android Development  
 - Web Development  
-- DevOps  
-- Machine Learning  
-- Data Science  
+- DevOps + DevSecOps
+- Machine Learning + Data Science  
 - Malware Development & Analysis
 
 ---
