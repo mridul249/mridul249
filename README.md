@@ -81,15 +81,6 @@
 - Machine Learning + Data Science  
 - Malware Development & Analysis
 
----
-
-### 📊 GitHub Stats
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mridul249&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="32%" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=mridul249&theme=dark&hide_border=false" width="32%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul249&theme=dark&hide_border=false&layout=compact" width="32%" />
-</div>
 
 ---
 
