@@ -15,7 +15,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -43,14 +43,12 @@
 
 </div>
 
-### 🧩 Expertise Areas
+### Expertise Areas
 
 - Android Development
 - Web Development
 - DevOps + DevSecOps
 - Machine Learning + Data Science
 - Malware Development & Analysis
-
----
 
 [![](https://visitcount.itsvg.in/api?id=mridul249&icon=0&color=0)](https://visitcount.itsvg.in)
