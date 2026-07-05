@@ -7,7 +7,7 @@
 - Software Engineer @ RapidFort Inc.
 - Exploring the intersections of System Design, Distributed Computing, AI/ML, and Cybersecurity with a balance of theory and hands-on practice.
 - Graduated with B.Tech in AI & DS at Indian Institute of Technology (IIT) Patna
-- Comfortable working across the stack: Android, Web, Backend, DevOps, Malware DNA, Machine & Deep Learning.
+- Comfortable working across the stack: Android, Web, Backend, DevOps, Malware DNA, Container Security, Machine & Deep Learning.
 - Reach me at [LinkedIn](https://www.linkedin.com/in/mridul249/)
 
 
