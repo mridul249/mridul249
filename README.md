@@ -10,7 +10,7 @@
 
 ### ⚙️ Tech Stack
 
-<br>
+<div align="center">
 
 ![](https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,dart,flutter,react,nodejs,fastapi,electron&theme=dark)
 
@@ -22,11 +22,11 @@
 <summary>full toolbox</summary>
 <br>
 
-`SSH` · `Postman` · `VirtualBox` ·`VM Ware Workstation` · `Hadoop / HDFS` · `PySpark` · `HBase` · `NumPy` · `Pandas` · `Matplotlib` · `MCP` · `Fast Agents` · `MQTT` · `OPC-UA`
+`SSH` · `Postman` · `VirtualBox` ·`VM Ware Workstation` · `Hadoop / HDFS` · `PySpark` · `HBase` · `NumPy` · `Pandas` · `Matplotlib` · `MQTT` · `OPC-UA`
 
 </details>
 
-<br>
+</div>
 
 ---
 
