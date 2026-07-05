@@ -22,7 +22,7 @@
 <summary>full toolbox</summary>
 <br>
 
-`SSH` · `Postman` · `VirtualBox` ·`VM Ware Workstation` · `Hadoop / HDFS` · `PySpark` · `HBase` · `NumPy` · `Pandas` · `Matplotlib` · `MQTT` · `OPC-UA`
+`SSH` · `Postman` · `VirtualBox` ·`VMware Workstation` · `HyperDbg` · `Hadoop / HDFS` · `PySpark` · `HBase` · `NumPy` · `Pandas` · `Matplotlib` · `MQTT` · `OPC-UA`
 
 </details>
 
