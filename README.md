@@ -36,7 +36,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=mridul249" /> -->
 
 <!-- </div> -->
-<a href="https://mriduld.in/"><strong>website</strong></a> • <a href="mailto:contact@mriduld.in"><strong>email</strong></a> • <a href="https://www.linkedin.com/in/mridul249/"><strong>linkedin</strong></a>
+<a href="https://mriduld.in/"><strong>website</strong></a> • <a href="mailto:contact@mriduld.in"><strong>email</strong></a> • <a href="https://www.linkedin.com/in/mridul249/"><strong>linkedin</strong></a> • <a href="https://x.com/mridul0xf9/"><strong>x</strong></a> 
 
 
 
